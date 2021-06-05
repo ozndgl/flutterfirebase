@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "189681373219",
+    "firebase_url": "https://dodomusteritakip-default-rtdb.firebaseio.com",
+    "project_id": "dodomusteritakip",
+    "storage_bucket": "dodomusteritakip.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189681373219:android:bda9a531f4aebda24be196",
+        "android_client_info": {
+          "package_name": "com.example.flutterfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "189681373219-jflralnsjbkr9b4m6hmjsctrf90t6ki5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAF6vNXByFp_XbwML7ONvDHvK9o5mo2SLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "189681373219-jflralnsjbkr9b4m6hmjsctrf90t6ki5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
